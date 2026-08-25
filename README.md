@@ -1,6 +1,6 @@
 ### PRIVACY POLICY AND TERMS OF SERVICE
 
-**Last Updated:** [Date you publish]
+**Last Updated:** [25/08/2026]
 
 **Developer:** Francisco Castillo  
 **Email:** quantumquestcourse@gmail.com
