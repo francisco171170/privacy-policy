@@ -90,5 +90,3 @@ For any questions regarding these Terms, please contact **quantumquestcourse@gma
 ---
 
 **© 2025 Quantum Quest. All rights reserved.**
-
-Let me know when you've uploaded it, and we'll proceed to Step 2: linking it in the app menu and first-launch dialog.
