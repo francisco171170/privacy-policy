@@ -7,7 +7,7 @@
 
 ---
 
-## PART 1: PRIVACY POLICY
+## PRIVACY POLICY
 
 ### 1. Introduction
 
@@ -53,7 +53,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ---
 
-## PART 2: TERMS OF SERVICE
+## TERMS OF SERVICE
 
 ### 1. Acceptance of Terms
 
